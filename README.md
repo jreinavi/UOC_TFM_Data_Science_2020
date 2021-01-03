@@ -8,9 +8,9 @@ This project presents the design of a deep learning model for the prediction of 
 
 ## Resumen
 
-Este proyecto presenta el diseño de un modelo de aprendizaje profundo (*deep learning*, en inglés) para la predicción del consumo eléctrico de un dispositivo IoT.  En base al paradigma de  procesamiendo  de  datos  en  la  frontera  (*edge  computing*,  en  ingles), el modelo puede ser cargado directamente en el dispositivo y así, aprovechando su capacidad de procesamiento obtener predicciones de su consumo. Para el entrenamiento del modelo se utilizó un histórico de lecturas de carga y descarga de la batería de un dispositivo alimentado por paneles solares.  A estos datos se integraron datos de intensidad de luz, temperatura y humedad.  Los resultados obtenidos demuestran que un modelo reducido y adaptado a las condiciones restrictivas de los dispositivos embebidos conserva la misma precisión que las inferencias realizadas por un modelo ejecutado en un entorno tradicional (servidores en la nube u ordenadores).
+Este proyecto presenta el diseño de un modelo de aprendizaje profundo (*deep learning*, en inglés) para la predicción del consumo eléctrico de un dispositivo IoT.  En base al paradigma de  procesamiendo  de  datos  en  la  frontera  (*edge  computing*,  en ingles), el modelo puede ser cargado directamente en el dispositivo y así, aprovechando su capacidad de procesamiento obtener predicciones de su consumo. Para el entrenamiento del modelo se utilizó un histórico de lecturas de carga y descarga de la batería de un dispositivo alimentado por paneles solares.  A estos datos se integraron datos de intensidad de luz, temperatura y humedad.  Los resultados obtenidos demuestran que un modelo reducido y adaptado a las condiciones restrictivas de los dispositivos embebidos conserva la misma precisión que las inferencias realizadas por un modelo ejecutado en un entorno tradicional (servidores en la nube u ordenadores).
 
-**Palabras clave:** an ́alisis predictivo,edge computing, consumo el ́ectrico.
+**Palabras clave:** analisis predictivo,edge computing, consumo electrico.
 
 ### Descripción carpetas
 
